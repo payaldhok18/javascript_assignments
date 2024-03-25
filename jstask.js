@@ -44,14 +44,14 @@
 // *****************************************************************************************************************************************************
 // 5. Take marks in 5 subjects A,B,C,D,E and print out the average of marks from five subject marks.
 
-const Input =require("readline-sync");
-let A=parseFloat(Input.question("Enter marks of subject A : "))
-let B=parseFloat(Input.question("Enter marks of subject B : "))
-let C=parseFloat(Input.question("Enter marks of subject C : "))
-let D=parseFloat(Input.question("Enter marks of subject D : "))
-let E=parseFloat(Input.question("Enter marks of subject E : "))
-let average=A+B+C+D+E;
-console.log(average/5)
+// const Input =require("readline-sync");
+// let A=Input.question("Enter marks of subject A : ")
+// let B=Input.question("Enter marks of subject B : ")
+// let C=Input.question("Enter marks of subject C : ")
+// let D=Input.question("Enter marks of subject D : ")
+// let E=Input.question("Enter marks of subject E : ")
+// let average=A+B+C+D+E;
+// console.log(average/5)
 
 // *********************************************************************************************************************************************************
 // 6. Take the cost price a and selling price b of a product, and print the profit obtained on the product.
